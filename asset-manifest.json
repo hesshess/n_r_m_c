@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomad-reactjs-master-todochallenge/static/js/main.d45ae059.js",
+    "index.html": "/nomad-reactjs-master-todochallenge/index.html",
+    "main.d45ae059.js.map": "/nomad-reactjs-master-todochallenge/static/js/main.d45ae059.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d45ae059.js"
+  ]
+}
